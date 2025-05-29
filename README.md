@@ -1,4 +1,5 @@
-<h1 align="center" style="color:white;">🖤 Hi, I'm a Developer at blucloud</h1>
+<h1 align="center" style="color:white;">🖤
+❤️ Hi, I'm a Developer at blucloud</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Dev-%2312100E.svg?style=flat&logo=html5&logoColor=white" />
